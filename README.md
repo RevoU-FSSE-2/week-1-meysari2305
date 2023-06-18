@@ -2,3 +2,12 @@
 
 html link tugas profil sederhana :
 https://iismeysariprofile.netlify.app/
+ berikut adalah web profile sederhana 
+ iis meysari
+ 
+element didalam web ini  terdiri dari:
+=> html
+=> CSS
+=> javaskrip
+=> bootstrap
+=> Font Awesome
