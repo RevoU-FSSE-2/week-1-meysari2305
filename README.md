@@ -8,19 +8,27 @@ https://iismeysariprofile.netlify.app/
 
 # Content di dalam Web ini terdiri dari :
 
-Navbar
-Picture
-About Me
-Botton Alert
-Footer
+### Navbar
+
+### Picture
+
+### About Me
+
+### Botton Alert
+
+### Footer
 
 ## Element untuk membuat Web ini terdiri dari :
 
-=> HTML
-=> CSS
-=> Bootstrap
-=> Font Awesome
-=> Javaskrip
+### => HTML
+
+### => CSS
+
+### => Bootstrap
+
+### => Font Awesome
+
+### => Javaskrip
 
 ## Lisensi
 
