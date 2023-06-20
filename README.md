@@ -6,14 +6,22 @@ Iis Meysari Profile
 
 https://iismeysariprofile.netlify.app/
 
-Element Content
+# Content di dalam Web ini terdiri dari :
 
 Navbar
+Picture
+About Me
+Botton Alert
+Footer
 
-### Picture
+## Element untuk membuat Web ini terdiri dari :
 
-### About Me
+=> HTML
+=> CSS
+=> Bootstrap
+=> Font Awesome
+=> Javaskrip
 
-### Botton Alert
+## Lisensi
 
-### Footer
+Ditulis oleh [Meysari]. Lisensi ini dilindungi oleh [GitHub]. Lihat `LICENSE` untuk informasi lebih lanjut.
