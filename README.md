@@ -2,7 +2,7 @@
 
 Iis Meysari Profile
 
-## Link Tugas Web Profile
+# Link Tugas Web Profile
 
 https://iismeysariprofile.netlify.app/
 
@@ -18,7 +18,7 @@ https://iismeysariprofile.netlify.app/
 
 ### Footer
 
-## Element untuk membuat Web ini terdiri dari :
+# Element untuk membuat Web ini terdiri dari :
 
 ### => HTML
 
